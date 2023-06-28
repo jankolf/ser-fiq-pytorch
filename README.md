@@ -33,3 +33,6 @@ To run the example code,
    ```
 ### Dependencies
 Tested with pytorch 2.0, torchvision.
+
+### License
+This project is licensed under the terms of the Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
