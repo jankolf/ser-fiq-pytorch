@@ -5,7 +5,7 @@
 <div align="center">
   Authors: 
   <br>
-  Philipp Terhorst, Jan Niklas Kolf, Naser Damer, Florian Kirchbuchner, Arjan Kuijper
+  Philipp Terhörst, Jan Niklas Kolf, Naser Damer, Florian Kirchbuchner, Arjan Kuijper
   <br>
   <br>
   <br>
