@@ -9,6 +9,7 @@
   <br>
   <br>
   <br>
+  <p>
   <a 
     href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Terhorst_SER-FIQ_Unsupervised_Estimation_of_Face_Image_Quality_Based_on_Stochastic_CVPR_2020_paper.pdf">
     <img src="https://github.com/jankolf/assets/blob/main/IDnet/paper-thecvf.com.svg?raw=true" alt="Paper available at TheCVF">
@@ -17,6 +18,7 @@
     href="https://share.jankolf.de/s/F64PNQjsQLpmGLW">
     <img src="https://github.com/jankolf/assets/blob/main/IDnet/data-download.svg?raw=true" alt="Data available to download"> 
   </a>
+  </p>
 </div>
 
 ### Reimplementation
@@ -27,7 +29,7 @@ The scaling of the SER-FIQ scores is different from the original implementation 
 To run the example code, 
 1. download the [model checkpoints](https://share.jankolf.de/s/F64PNQjsQLpmGLW)
 2. create a folder checkpoints and copy the file into it
-3. Execure the example code with
+3. Execute the example code with
    ```
    python main.py
    ```
